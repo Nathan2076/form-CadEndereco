@@ -1,7 +1,5 @@
-# Formulário de Consulta de Endereço
-
-![Example GIF](docs/example.gif)
-
+<h1 align="center">Formulário de Consulta de Endereço</h1>
+<p align="center"><img src="docs/example.gif" alt="GIF de exemplo" /></p>
 <p align="center"><a href="https://github.com/Nathan2076/form-CadEndereco/actions/workflows/pages/pages-build-deployment"><img src="https://github.com/Nathan2076/form-CadEndereco/actions/workflows/pages/pages-build-deployment/badge.svg" alt="pages-build-deployment" /></a></p>
 
 ## Sobre
